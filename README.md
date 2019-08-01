@@ -3,7 +3,7 @@
 
 原始工程来源于https://github.com/edvardHua/PoseEstimationForMobile
 
-但是其中有些BUG，我略作修改，如果你没法跑起来原工程，可以把我的training文件夹弄过去替换掉原工程的。
+但是其中有些BUG，我略作修改，如果你没法跑起来原工程，可以把我的training文件夹弄过去覆盖掉原工程的。
 
 # 150M计算量调参心得（双核A53约50ms）
 
