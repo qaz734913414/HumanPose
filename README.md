@@ -1,6 +1,10 @@
 # HumanPose
 人体骨骼14点调参心得
 
+原始工程来源于https://github.com/edvardHua/PoseEstimationForMobile
+
+但是其中有些BUG，我略作修改，如果你没法跑起来原工程，可以把我的training文件夹弄过去替换掉原工程的。
+
 # 150M计算量调参心得
 
 **（1）stage_num=3，分辨率192x192调参阶段**
